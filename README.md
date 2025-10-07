@@ -1,18 +1,15 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:
+## Date: 07/10/2025
 
 ## AIM:
  To design a website to calculate the Body Mass Index(BMI) using server side processing.
 
 
-
 ## FORMULA:
-```
 BMI = W/(H/100**2)
 BMI --> Body Mass Index
 W --> Weight
 H --> Height
-```
 
 ## DESIGN STEPS:
 
@@ -139,10 +136,10 @@ urlpatterns = [
 ``` 
 
 ## SERVER SIDE PROCESSING:
-
+![alt text](<Screenshot 2025-10-05 225238.png>)
 
 ## HOMEPAGE:
-
+![alt text](<Screenshot 2025-10-05 225150.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
