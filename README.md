@@ -6,10 +6,12 @@
 
 
 ## FORMULA:
+```
 BMI = W/(H/100**2)
 BMI --> Body Mass Index
 W --> Weight
 H --> Height
+```
 
 ## DESIGN STEPS:
 
@@ -38,7 +40,6 @@ math.py
 <html>
 <head>
 <title>Body Mass Index</title>
-<h1 style="color:purple;">ASIN BANU A (25009969)</h1>
 <style type="text/css">
 body
 {
@@ -77,6 +78,7 @@ padding-top: 20px;
   <div class="edge">
   <div class="box">
   <h1>Body Mass Index</h1>
+  <h2>ASIN BANU A</h2>
   <form method="POST">
     {% csrf_token %}
   <div class="formelt">
@@ -139,7 +141,6 @@ urlpatterns = [
 ![alt text](<Screenshot 2025-10-05 225238.png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2025-10-05 225150.png>)
-
+![alt text](<Screenshot 2025-10-09 112824.png>)
 ## RESULT:
 The program for performing server side processing is completed successfully.
